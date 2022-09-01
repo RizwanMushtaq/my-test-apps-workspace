@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "lazy-loading-modules-app": "apps/lazy-loading-modules-app",
+    "lazy-loading-modules-app-e2e": "apps/lazy-loading-modules-app-e2e"
+  }
+}
